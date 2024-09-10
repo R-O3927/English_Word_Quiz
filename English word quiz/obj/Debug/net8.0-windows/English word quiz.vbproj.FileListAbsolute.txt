@@ -1,0 +1,18 @@
+C:\Users\rirun\OneDrive\デスクトップ\Development_Practice\開発練習⑨_VB.NETで英単語アプリ\English word quiz\bin\Debug\net8.0-windows\English word quiz.exe
+C:\Users\rirun\OneDrive\デスクトップ\Development_Practice\開発練習⑨_VB.NETで英単語アプリ\English word quiz\bin\Debug\net8.0-windows\English word quiz.deps.json
+C:\Users\rirun\OneDrive\デスクトップ\Development_Practice\開発練習⑨_VB.NETで英単語アプリ\English word quiz\bin\Debug\net8.0-windows\English word quiz.runtimeconfig.json
+C:\Users\rirun\OneDrive\デスクトップ\Development_Practice\開発練習⑨_VB.NETで英単語アプリ\English word quiz\bin\Debug\net8.0-windows\English word quiz.dll
+C:\Users\rirun\OneDrive\デスクトップ\Development_Practice\開発練習⑨_VB.NETで英単語アプリ\English word quiz\bin\Debug\net8.0-windows\English word quiz.pdb
+C:\Users\rirun\OneDrive\デスクトップ\Development_Practice\開発練習⑨_VB.NETで英単語アプリ\English word quiz\obj\Debug\net8.0-windows\English word quiz.vbproj.GenerateResource.cache
+C:\Users\rirun\OneDrive\デスクトップ\Development_Practice\開発練習⑨_VB.NETで英単語アプリ\English word quiz\obj\Debug\net8.0-windows\English word quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rirun\OneDrive\デスクトップ\Development_Practice\開発練習⑨_VB.NETで英単語アプリ\English word quiz\obj\Debug\net8.0-windows\English word quiz.AssemblyInfoInputs.cache
+C:\Users\rirun\OneDrive\デスクトップ\Development_Practice\開発練習⑨_VB.NETで英単語アプリ\English word quiz\obj\Debug\net8.0-windows\English word quiz.AssemblyInfo.vb
+C:\Users\rirun\OneDrive\デスクトップ\Development_Practice\開発練習⑨_VB.NETで英単語アプリ\English word quiz\obj\Debug\net8.0-windows\English word quiz.vbproj.CoreCompileInputs.cache
+C:\Users\rirun\OneDrive\デスクトップ\Development_Practice\開発練習⑨_VB.NETで英単語アプリ\English word quiz\obj\Debug\net8.0-windows\English word quiz.sourcelink.json
+C:\Users\rirun\OneDrive\デスクトップ\Development_Practice\開発練習⑨_VB.NETで英単語アプリ\English word quiz\obj\Debug\net8.0-windows\English word quiz.dll
+C:\Users\rirun\OneDrive\デスクトップ\Development_Practice\開発練習⑨_VB.NETで英単語アプリ\English word quiz\obj\Debug\net8.0-windows\refint\English word quiz.dll
+C:\Users\rirun\OneDrive\デスクトップ\Development_Practice\開発練習⑨_VB.NETで英単語アプリ\English word quiz\obj\Debug\net8.0-windows\English word quiz.pdb
+C:\Users\rirun\OneDrive\デスクトップ\Development_Practice\開発練習⑨_VB.NETで英単語アプリ\English word quiz\obj\Debug\net8.0-windows\English word quiz.genruntimeconfig.cache
+C:\Users\rirun\OneDrive\デスクトップ\Development_Practice\開発練習⑨_VB.NETで英単語アプリ\English word quiz\obj\Debug\net8.0-windows\ref\English word quiz.dll
+C:\Users\rirun\OneDrive\デスクトップ\Development_Practice\開発練習⑨_VB.NETで英単語アプリ\English word quiz\obj\Debug\net8.0-windows\English_word_quiz.englishWordQuizApp.resources
+C:\Users\rirun\OneDrive\デスクトップ\Development_Practice\開発練習⑨_VB.NETで英単語アプリ\English word quiz\obj\Debug\net8.0-windows\English_word_quiz.ExitForm.resources
